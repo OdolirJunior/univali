@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1504907593 source:c:\users\eduardo\desktop\faculdade\estrutura de dados\listacircular\lista.cpp
+	"Lista.h"
+	"Nodo.h"
+	<iostream>
+
+1504919142 c:\users\eduardo\desktop\faculdade\estrutura de dados\listacircular\lista.h
+	"Nodo.h"
+	<iostream>
+
+1504910752 c:\users\eduardo\desktop\faculdade\estrutura de dados\listacircular\nodo.h
+	<iostream>
+
+1505243600 source:c:\users\eduardo\desktop\faculdade\estrutura de dados\listacircular\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+	<stdlib.h>
+	"Lista.h"
+	"Nodo.h"
+

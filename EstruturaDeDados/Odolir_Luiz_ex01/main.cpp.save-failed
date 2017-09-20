@@ -1,0 +1,62 @@
+#include <iostream>
+#include "Lista.h"
+using namespace std;
+
+
+int main(){
+    int escolha = 0;
+    char elemento;
+    cout<<"1 - Criar uma lista"<<endl;
+    cout<<"2 - Destruir uma lista"<<endl;
+    cout<<"3 - Verificar se um elemento existe na lista"<<endl;
+    cout<<"4 - Verificar se todos os elementos de uma lista existem em outra lista"<<endl;
+    cout<<"5 - Inserir um elemento na lista"<<endl;
+    cout<<"6 - Inserir os elementos de uma lista em outra lista"<<endl;
+    cout<<"7 - Retirar um elemento da lista"<<endl;
+    cout<<"8 - Mostrar uma lista"<<endl;
+    cout<<"9 - Sair"<<endl;
+    cout<<"----------------------------------"<<endl;
+
+
+
+    do{
+        cout<<"Escolha uma das opcoes acima : ";
+        cin>>escolha;
+        switch(escolha){
+            case 1:
+                Lista L ;
+                cout<<"Lista criada!"<<endl;
+            break;
+            case 2:
+                ~Lista L;
+                cout<<"Lista destruida!"<<endl;
+                break;
+            case 3:
+                cout<<"Elemento que deseja procurar: ";
+                cin>>elemento;
+                cout<<L.existeElemento(elemento);
+                break;
+            case 4:
+                break;
+            case 5:
+                cout<<"Elemento que deseja inserir: ";
+                cin>>elemento;
+                L.insere(elemento);
+                break;
+            case 6:
+                break;
+            case 7:
+                break;
+            case 8:
+                L.mostra();
+                break;
+            case 9:
+                break;
+
+
+        }
+    }while(escolha != 9);
+
+    return 1;
+
+}

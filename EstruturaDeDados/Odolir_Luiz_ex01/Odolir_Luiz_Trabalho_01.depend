@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1505179564 source:e:\google drive\5° semestre 2_2017\estrutura de dados i\trabalho_m1\odolir_luiz_trabalho_01\main.cpp
+	<iostream>
+	"Lista.h"
+
+1505178357 e:\google drive\5° semestre 2_2017\estrutura de dados i\trabalho_m1\odolir_luiz_trabalho_01\include\lista.h
+
+1505179911 source:e:\google drive\5° semestre 2_2017\estrutura de dados i\trabalho_m1\odolir_luiz_trabalho_01\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1505242034 source:c:\users\eduardo\desktop\faculdade\estrutura de dados\odolir_luiz_trabalho_01\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1505241332 c:\users\eduardo\desktop\faculdade\estrutura de dados\odolir_luiz_trabalho_01\include\lista.h
+
+1505241391 source:c:\users\eduardo\desktop\faculdade\estrutura de dados\odolir_luiz_trabalho_01\main.cpp
+	<iostream>
+	"Lista.h"
+
