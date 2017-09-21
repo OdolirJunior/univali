@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package m1.odolir.luiz.domino;
+package m1.odolir.domino;
 
 /**
  *
