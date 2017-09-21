@@ -9,7 +9,7 @@ package m1.odolir.domino;
  *
  * @author Eduardo
  */
-public class M1_Odolir_Luiz_domino {
+public class M1_Odolir_domino {
 
     /**
      * @param args the command line arguments
