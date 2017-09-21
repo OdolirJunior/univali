@@ -1,4 +1,4 @@
-package m1.odolir.luiz.domino;
+package m1.odolir.domino;
 
 
 import java.util.Comparator;
